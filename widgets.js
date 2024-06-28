@@ -1,1 +1,43 @@
-const _0x368ce6 = _0xadc7; function _0xadc7(_0xe07428, _0x402a12) { const _0xad8bf3 = _0xad8b(); return _0xadc7 = function (_0xadc741, _0x3b250e) { _0xadc741 = _0xadc741 - 0xd2; let _0x3d85b4 = _0xad8bf3[_0xadc741]; return _0x3d85b4; }, _0xadc7(_0xe07428, _0x402a12); } function _0xad8b() { const _0x10503c = ['length', 'addEventListener', 'location', 'join', '1040094zJnESe', 'getElementsByClassName', '&h=', 'Content-Type', '<--split-->', 'outerHTML', '35528TYVwfl', 'th=', '&ref=', '204HrdOqq', 'DONE', 'head', '142168vhhpvx', 'childNodes', 'afterend', '&w=', 'getAttribute', '&t=', 'parse', 'status', '3733278wpVWcH', 'onreadystatechange', 'textContent', 'DOMContentLoaded', 'application/x-www-form-urlencoded', 'ERROR', 'send', 'responseXML', 'data-width', '341945rEcdct', 'data-height', 'twitter-timeline', 'insertAdjacentHTML', 'open', 'data-theme', '277823VsvbTd', 'https://www.athabasca.dev/hydra/jdbq.asmx/tfxn', '16hLBtUd', '5142762fovTiN', 'POST', 'setRequestHeader']; _0xad8b = function () { return _0x10503c; }; return _0xad8b(); } (function (_0x6bbb53, _0x2d5170) { const _0xe5be4 = _0xadc7, _0x19549a = _0x6bbb53(); while (!![]) { try { const _0x48038b = -parseInt(_0xe5be4(0xf3)) / 0x1 + parseInt(_0xe5be4(0xe7)) / 0x2 + -parseInt(_0xe5be4(0xf0)) / 0x3 * (parseInt(_0xe5be4(0xed)) / 0x4) + parseInt(_0xe5be4(0xd7)) / 0x5 + -parseInt(_0xe5be4(0xfb)) / 0x6 + -parseInt(_0xe5be4(0xdd)) / 0x7 + -parseInt(_0xe5be4(0xdf)) / 0x8 * (-parseInt(_0xe5be4(0xe0)) / 0x9); if (_0x48038b === _0x2d5170) break; else _0x19549a['push'](_0x19549a['shift']()); } catch (_0x2df796) { _0x19549a['push'](_0x19549a['shift']()); } } }(_0xad8b, 0x4ee9a), document[_0x368ce6(0xe4)](_0x368ce6(0xfe), function () { const _0x21307b = _0x368ce6, _0x4e7a85 = document[_0x21307b(0xe8)](_0x21307b(0xd9)), _0x28205f = [], _0x4b3e1c = [], _0x5131f4 = [], _0x495ba9 = []; for (let _0x66e1a3 = 0x0; _0x66e1a3 < _0x4e7a85[_0x21307b(0xe3)]; _0x66e1a3++) { var _0x43b6f3 = _0x4e7a85[_0x66e1a3][_0x21307b(0xf7)](_0x21307b(0xdc)); _0x43b6f3 == null && (_0x43b6f3 = 'light'); var _0x845b50 = _0x4e7a85[_0x66e1a3][_0x21307b(0xf7)](_0x21307b(0xd6)); _0x845b50 == null && (_0x845b50 = 0x0); var _0x541ce4 = _0x4e7a85[_0x66e1a3][_0x21307b(0xf7)](_0x21307b(0xd8)); _0x541ce4 == null && (_0x541ce4 = 0x1f4); var _0x3fccdf = _0x4e7a85[_0x66e1a3][_0x21307b(0xf7)]('data-handle'); _0x3fccdf == null ? _0x4e7a85[_0x66e1a3]['outerHTML'] = 'Error:\x20data-handle\x20element\x20is\x20missing!' : (_0x28205f[_0x66e1a3] = _0x3fccdf, _0x4b3e1c[_0x66e1a3] = _0x541ce4, _0x5131f4[_0x66e1a3] = _0x43b6f3, _0x495ba9[_0x66e1a3] = _0x845b50); } const _0x5ec305 = new XMLHttpRequest(); _0x5ec305[_0x21307b(0xdb)](_0x21307b(0xe1), _0x21307b(0xde), !![]), _0x5ec305[_0x21307b(0xe2)](_0x21307b(0xea), _0x21307b(0xd2)), _0x5ec305[_0x21307b(0xf2)], _0x5ec305[_0x21307b(0xfc)] = function () { const _0x29e2ec = _0x21307b; if (_0x5ec305['readyState'] === XMLHttpRequest[_0x29e2ec(0xf1)] && _0x5ec305[_0x29e2ec(0xfa)] === 0xc8) { if (_0x5ec305[_0x29e2ec(0xd5)] == null) _0x4e7a85[i][_0x29e2ec(0xec)] = _0x29e2ec(0xd3); else { var _0x44d186 = JSON[_0x29e2ec(0xf9)](_0x5ec305[_0x29e2ec(0xd5)][_0x29e2ec(0xf4)][0x0][_0x29e2ec(0xfd)]); for (let _0x2c3d72 = 0x0; _0x2c3d72 < _0x4e7a85[_0x29e2ec(0xe3)]; _0x2c3d72++) { _0x4e7a85[_0x2c3d72][_0x29e2ec(0xda)](_0x29e2ec(0xf5), _0x44d186[_0x2c3d72]); } } } }, _0x5ec305[_0x21307b(0xd4)](_0x21307b(0xee) + encodeURIComponent(_0x28205f[_0x21307b(0xe6)](_0x21307b(0xeb))) + _0x21307b(0xf8) + encodeURIComponent(_0x5131f4[_0x21307b(0xe6)](_0x21307b(0xeb))) + _0x21307b(0xe9) + encodeURIComponent(_0x4b3e1c['join'](_0x21307b(0xeb))) + _0x21307b(0xf6) + encodeURIComponent(_0x495ba9[_0x21307b(0xe6)](_0x21307b(0xeb))) + _0x21307b(0xef) + encodeURIComponent(window[_0x21307b(0xe5)]['href'])); }));
+<a class="twitter-timeline"
+ data-width="355" 
+ data-height="550" 
+ data-theme="light" 
+ href="https://twitter.com/marumechanda?ref_src=twsrc%5Etfw">Tweets by มารุเมะจัง</a>
+ <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div id="tweets-container">
+    <!-- Tweets will be dynamically added here -->
+</div>
+
+<script>
+    // Function to fetch tweets from Twitter API
+    function fetchTweets() {
+        // Your Twitter API endpoint URL
+        const apiUrl = 'https://api.twitter.com/2/users/marumechanda/tweets';
+
+        // Your Twitter API bearer token
+        const bearerToken = '******';
+
+        // Fetch tweets
+        fetch(apiUrl, {
+            headers: {
+                'Authorization': `Bearer ${bearerToken}`
+            }
+        })
+        .then(response => response.json())
+        .then(data => {
+            // Parse and display tweets
+            const tweets = data.data;
+            const tweetsContainer = document.getElementById('tweets-container');
+            tweets.forEach(tweet => {
+                const tweetCard = document.createElement('div');
+                tweetCard.classList.add('tweet-card')
+                tweetCard.textContent = tweet.text;
+                tweetsContainer.appendChild(tweetCard);
+            });
+        })
+        .catch(error => console.error('Error fetching tweets:', error));
+    }
+
+    // Call fetchTweets function when the page loads
+    window.onload = fetchTweets;
+</script>
